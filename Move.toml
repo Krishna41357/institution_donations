@@ -1,0 +1,16 @@
+[package]
+name = "donations"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule= "0x3f8d2eff0b0e9d0f80d79ea441900b3da4d8adcf40425d684c4a7627c9ab7d33"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]

@@ -45,4 +45,4 @@ The Institution Donations platform has significant potential for expansion in th
 
 ## Contract Details
 
-Smart Contract Address: 0x7bE4D5A99c903C9a4c3cC4EeD1F7b7dEB8B5530F
+Smart Contract Address: 0x3f8d2eff0b0e9d0f80d79ea441900b3da4d8adcf40425d684c4a7627c9ab7d33
